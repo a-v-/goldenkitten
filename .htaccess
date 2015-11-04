@@ -1,0 +1,8 @@
+rewriteengine on
+
+rewritecond %{HTTP_HOST} goldenkitten.com$ [NC]
+rewritecond %{REQUEST_URI} !favicon.ico$ [NC]
+rewritecond %{REQUEST_URI} ^/Golden_Ears [NC]
+rewritecond %{REQUEST_URI} !robots.txt$ [NC]
+RewriteCond %{HTTPS}s ^on(s)|
+rewriterule ^(.*)$ http://www.goldenkitten.com/Available_Kittens.html [R=301,L]
