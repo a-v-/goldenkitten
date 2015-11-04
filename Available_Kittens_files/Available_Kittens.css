@@ -206,7 +206,7 @@
 .image_cluster_layout_style_default {
     padding: 0px;
 }
-.image_cluster_layout_style_default_External_291_35 {
+.image_cluster_layout_style_default_External_0_0 {
     position: relative;
 }
 a {
@@ -245,6 +245,14 @@ a:hover {
     color: rgb(203, 203, 203);
     text-decoration: none;
 }
+#widget6 a {
+    color: rgb(203, 203, 203);
+    text-decoration: none;
+}
+#widget6 a:hover {
+    color: rgb(189, 37, 44);
+    text-decoration: none;
+}
 #id4 div.caption {
     line-height: 20px;
     margin-bottom: 0px;
@@ -272,6 +280,10 @@ a:hover {
     color: rgb(121, 121, 124);
     text-decoration: none;
 }
+#widget6 a:visited {
+    color: rgb(121, 121, 124);
+    text-decoration: none;
+}
 .bumper {
     font-size: 1px;
     line-height: 1px;
@@ -293,6 +305,10 @@ a:hover {
     text-decoration: none;
     text-transform: uppercase;
 }
+#widget7 a {
+    color: rgb(203, 203, 203);
+    text-decoration: none;
+}
 #widget5 a:hover {
     color: rgb(189, 37, 44);
     text-decoration: none;
@@ -306,6 +322,10 @@ a:hover {
 }
 #widget1 a:hover {
     color: rgb(189, 37, 44);
+    text-decoration: none;
+}
+#widget7 a:visited {
+    color: rgb(121, 121, 124);
     text-decoration: none;
 }
 #widget5 .Comment_Posted_Date {
@@ -331,6 +351,10 @@ a:hover {
 }
 #widget5 a:visited {
     color: rgb(121, 121, 124);
+    text-decoration: none;
+}
+#widget7 a:hover {
+    color: rgb(189, 37, 44);
     text-decoration: none;
 }
 #widget3 a:visited {

@@ -226,11 +226,7 @@ a:hover {
     color: rgb(189, 37, 44);
     text-decoration: none;
 }
-#widget2 a:visited {
-    color: rgb(121, 121, 124);
-    text-decoration: none;
-}
-#widget0 a:hover {
+#widget5 a:hover {
     color: rgb(189, 37, 44);
     text-decoration: none;
 }
@@ -238,11 +234,43 @@ a:hover {
     color: rgb(121, 121, 124);
     text-decoration: none;
 }
+#widget3 a:visited {
+    color: rgb(121, 121, 124);
+    text-decoration: none;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget2 a:visited {
+    color: rgb(121, 121, 124);
+    text-decoration: none;
+}
+#widget3 a:hover {
+    color: rgb(189, 37, 44);
+    text-decoration: none;
+}
+.tinyText {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget4 a:hover {
+    color: rgb(189, 37, 44);
+    text-decoration: none;
+}
+#widget4 a:visited {
+    color: rgb(121, 121, 124);
+    text-decoration: none;
+}
+#widget5 a:visited {
+    color: rgb(121, 121, 124);
+    text-decoration: none;
+}
 #widget0 a {
     color: rgb(203, 203, 203);
     text-decoration: none;
 }
-#widget2 a:hover {
+#widget0 a:hover {
     color: rgb(189, 37, 44);
     text-decoration: none;
 }
@@ -250,17 +278,25 @@ a:hover {
     color: rgb(203, 203, 203);
     text-decoration: none;
 }
-.spacer {
-    font-size: 1px;
-    line-height: 1px;
+#widget3 a {
+    color: rgb(203, 203, 203);
+    text-decoration: none;
 }
-.tinyText {
-    font-size: 1px;
-    line-height: 1px;
+#widget2 a:hover {
+    color: rgb(189, 37, 44);
+    text-decoration: none;
 }
 .bumper {
     font-size: 1px;
     line-height: 1px;
+}
+#widget4 a {
+    color: rgb(203, 203, 203);
+    text-decoration: none;
+}
+#widget5 a {
+    color: rgb(203, 203, 203);
+    text-decoration: none;
 }
 body { 
     -webkit-text-size-adjust: none;
