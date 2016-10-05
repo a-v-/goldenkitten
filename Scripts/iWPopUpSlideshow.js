@@ -5,7 +5,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////////
 
-var slideWidth;var slideHeight;var frameHeight;var frameWidth;var scroller;var slideshow;var thumbnails;var hud;var thumbMatte=89;var pickerHeight=100;var browser;var baseURL="http://www.me.com/1/slideshow/";var windowWidth=800;var windowHeight=800;function initSlideshow(imageStream,index,parameters){browser=new BrowserDetectLite();if(checkBrowser())
+var slideWidth;var slideHeight;var frameHeight;var frameWidth;var scroller;var slideshow;var thumbnails;var hud;var thumbMatte=89;var pickerHeight=100;var browser;var baseURL="../Scripts/Widgets/SlideShow/";var windowWidth=800;var windowHeight=800;function initSlideshow(imageStream,index,parameters){browser=new BrowserDetectLite();if(checkBrowser())
 {alphaRules();if(document.documentElement&&document.documentElement.clientWidth&&document.documentElement.clientHeight)
 {windowWidth=document.documentElement.clientWidth;windowHeight=document.documentElement.clientHeight;}
 else if(self.innerWidth&&self.innerHeight)
